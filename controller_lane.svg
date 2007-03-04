@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://inkscape.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16px"
+   height="16px"
+   id="svg1307"
+   sodipodi:version="0.32"
+   inkscape:version="0.43"
+   sodipodi:docbase="/home/nili/proj/midimupp"
+   sodipodi:docname="controller_lane.svg"
+   inkscape:export-filename="/home/nili/proj/midimupp/controller_lane.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs1309" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="22.197802"
+     inkscape:cx="8"
+     inkscape:cy="7.6989613"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:grid-bbox="true"
+     inkscape:document-units="px"
+     inkscape:window-width="761"
+     inkscape:window-height="538"
+     inkscape:window-x="255"
+     inkscape:window-y="173" />
+  <metadata
+     id="metadata1312">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer">
+    <rect
+       style="fill:#6ea3be;fill-opacity:1;stroke:#3e708a;stroke-width:0.99999917;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1315"
+       width="15.028993"
+       height="15.028993"
+       x="0.4861165"
+       y="0.4861165" />
+    <path
+       style="fill:#6e6ebe;fill-opacity:1;stroke:#3e3e8a;stroke-width:0.99999899;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+       d="M 0.4861165,7.2812119 C 0.4861165,7.2812119 2.8401024,4.5782415 5.4778405,5.2089346 C 8.1155786,5.8396277 8.5277519,9.2859149 11.037069,9.8039842 C 13.546386,10.322054 15.515109,7.2812119 15.515109,7.2812119 L 15.515109,15.733893 L 0.4861165,15.733893 L 0.4861165,7.2812119 z "
+       id="rect2190"
+       sodipodi:nodetypes="csscccc" />
+  </g>
+</svg>

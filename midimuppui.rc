@@ -1,0 +1,45 @@
+<!DOCTYPE kpartgui SYSTEM "kpartgui.dtd"><!-- -*- mode: nxml -*- -->
+<kpartgui name="rmc505" version="1">
+  <MenuBar>
+    <Menu name="view">
+      <text>&amp;View</text>
+      <!--<Action name="edit_mode" />
+      <Separator />-->
+      <Action name="show_note_lane" />
+      <Action name="show_velocity_lane" />
+      <Action name="show_controller_lane" />
+      <Separator />
+      <Action name="controllers" />
+      <Action name="show_controllers_in_track" />
+      <Separator />
+      <Action name="follow_play_cursor" />
+      <Action name="snap" />
+    </Menu>
+    <Menu name="transport">
+      <text>&amp;Transport</text>
+      <Action name="transport_stop" />
+      <Action name="transport_play" />
+    </Menu>
+  </MenuBar>
+  <ToolBar fullWidth="true" name="mainToolBar">
+    <!--<Action name="edit_mode" />
+    <Separator />-->
+    <Action name="show_note_lane" />
+    <Action name="show_velocity_lane" />
+    <Action name="show_controller_lane" />
+    <Separator />
+    <Action name="controllers" />
+    <Action name="show_controllers_in_track" />
+    <Separator />
+    <Action name="follow_play_cursor" />
+    <Action name="snap" />
+    <Action name="snap_resolution" />
+  </ToolBar>
+  <ToolBar fullWidth="true" name="Transport">
+    <Action name="transport_time" />
+    <Action name="transport_stop" />
+    <Action name="transport_play" />
+  </ToolBar>
+</kpartgui>
+<!--  <Menu name="file"><text>&amp;File</text>
+  </Menu>-->
